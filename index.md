@@ -1,10 +1,10 @@
 ---
 layout: cv
 title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
+email: tang@jeffery.top
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: https://www.jeffery.top
+    text: jeffery.top
 ---
 # 唐志辉
 
@@ -17,9 +17,9 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __东南大学__ `2017.9 -2020.6`
 ```
 Pittsburgh, PA
 ```
